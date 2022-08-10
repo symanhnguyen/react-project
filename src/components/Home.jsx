@@ -1,5 +1,6 @@
 import React from "react";
-import legana from "../Image/legana.png";
+import leegana from "../Image/legana.png";
+import mypro from "../Image/mypro.jpg"
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-scroll";
 
@@ -34,8 +35,8 @@ const Home = () => {
         </div>
         <div>
           <img
-            src={legana}
-            alt="leekgana"
+            src={mypro}
+            alt="mypro"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
         </div>
