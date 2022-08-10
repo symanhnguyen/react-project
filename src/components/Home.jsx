@@ -16,7 +16,7 @@ const Home = () => {
       >
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a React Native developer
+            I'm a React JS developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             I have 1 year of experience building and designing software
