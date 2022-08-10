@@ -1,5 +1,5 @@
 import React from "react";
-import leegana from "../Image/legana.png";
+// import leegana from "../Image/legana.png";
 import mypro from "../Image/mypro.jpg"
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-scroll";
