@@ -1,6 +1,7 @@
 import React from "react";
 // import leegana from "../Image/legana.png";
-import mypro from "../Image/mypro.jpg"
+// import mypro from "../Image/mypro.jpg"
+import profile from "../Image/profile.jpg"
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-scroll";
 
@@ -35,8 +36,8 @@ const Home = () => {
         </div>
         <div>
           <img
-            src={mypro}
-            alt="mypro"
+            src={profile}
+            alt="profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
         </div>
